@@ -9,5 +9,5 @@ Este repositório contém a solução de um desafio técnico de criação de um 
 
 ## Estrutura
 - Desafio_Banvic.pbix — arquivo do Power BI
-- dados/ — conjunto de dados em CSV (se permitido)
+- dados — conjunto de dados em CSV (se permitido)
 - Ánalise de Dados Banvic.docx - Especificações do que era para ser feito
